@@ -1,2 +1,2 @@
-n = [1, 2, 3]
-print(n[0])
+print(2 % 80)
+print(d)
